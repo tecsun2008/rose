@@ -568,3 +568,12 @@ http://58.248.112.203:8006/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2Fnek
 http://58.248.112.203:8006/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKn28G%2BWQkLi7Q1Mh845gzlZpk5pTBlduEA6C0mU%2FOMOo
 #EXTINF:-1 tvg-name="上海纪实",纪实人文
 http://58.248.112.203:8006/GD_CUCC/G_SHANGHAIJS-HD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKj2XjEQPCgsjHTwYM82OKTALPIQT5K8kr81olsEefKQX
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+https://stream1.freetv.fun/8be913acc13a263e4f50897feaa52d5187497f0349f655fb052da3b7c7365ef0.ctv
+#EXTINF:-1 tvg-name="CCTV5PLUS" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+https://stream1.freetv.fun/7e18319834d88b172f57a3a019b567924e6a1e301d05029af46a4f95fcf9531c.ctv
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+https://stream1.freetv.fun/50b58af32d45bb6f2f6acfb0cf3def87a6313f0d634098de631492c395200c89.ctv
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="央视频道",广东体育
+https://stream1.freetv.fun/6b27ef639ee52bdeaff77aa96a656d74f7900ab9c14cefbc124b40529e10a391.ctv
